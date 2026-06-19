@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BloodBridge</string>
+    <string name="tagline">Saving Lives, One Drop at a Time</string>
+    <string name="register_donor">Register as Donor</string>
+    <string name="search_donors">Emergency Search</string>
+    <string name="donation_log">Donation Log</string>
+    <string name="my_profile">My Profile</string>
+    <string name="eligible">✓ Eligible to Donate</string>
+    <string name="not_eligible">✗ Not Eligible Yet</string>
+    <string name="days_until_eligible">days until eligible</string>
+    <string name="call_donor">Call Donor</string>
+    <string name="select_blood_group">Select Blood Group</string>
+    <string name="search">Search</string>
+    <string name="no_donors_found">No eligible donors found for this blood group</string>
+    <string name="thank_you_title">Thank You, Hero! 🩸</string>
+    <string name="thank_you_message">Your donation has been logged. You are saving a life today!</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BloodBridge Theme Colors -->
+    <color name="red_primary">#D32F2F</color>
+    <color name="red_dark">#B71C1C</color>
+    <color name="red_light">#FF5252</color>
+
+    <!-- Status Colors -->
+    <color name="green_eligible">#4CAF50</color>
+    <color name="red_ineligible">#F44336</color>
+
+    <!-- General Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- UI Colors -->
+    <color name="light_gray">#F5F5F5</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_gray">#757575</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Additional Colors -->
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FF9800</color>
+    <color name="blue">#2196F3</color>
+
+    <!-- Material Colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+</resources>
